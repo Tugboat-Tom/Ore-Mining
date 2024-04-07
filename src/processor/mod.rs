@@ -5,7 +5,6 @@ mod register;
 mod reset;
 mod update_admin;
 mod update_difficulty;
-
 pub use claim::*;
 pub use initialize::*;
 pub use mine::*;
